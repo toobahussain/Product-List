@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 1200,
+    "rating": 4.8,
+    "description": "High-performance laptop for work, gaming, and everyday productivity.",
+    "image": "/assets/laptop.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 850,
+    "rating": 4.7,
+    "description": "Latest smartphone with an advanced camera and long-lasting battery.",
+    "image": "/assets/smartphone.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 180,
+    "rating": 4.6,
+    "description": "Noise-cancelling wireless headphones with premium sound quality.",
+    "image": "/assets/headphone.jpg"
+  },
+  {
+    "id": 4,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 25,
+    "rating": 4.3,
+    "description": "Comfortable 100% cotton T-shirt for everyday casual wear.",
+    "image": "/assets/tshirt.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 60,
+    "rating": 4.5,
+    "description": "Slim-fit denim jeans designed for comfort and style.",
+    "image": "/assets/jeans.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Coffee Mug",
+    "category": "Home",
+    "price": 15,
+    "rating": 4.4,
+    "description": "Ceramic coffee mug perfect for hot and cold beverages.",
+    "image": "/assets/mug.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Desk Lamp",
+    "category": "Home",
+    "price": 45,
+    "rating": 4.6,
+    "description": "Modern LED desk lamp with adjustable brightness levels.",
+    "image": "/assets/lamp.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 70,
+    "rating": 4.7,
+    "description": "Durable backpack with multiple compartments for travel and daily use.",
+    "image": "/assets/backpack.jpg"
+  }
+]
