@@ -4,7 +4,7 @@ A responsive React application that displays products from a local JSON file wit
 
 ##  Preview
 
-![Product List UI](screenshots/preview.png)
+![Product List UI]screenshots/preview.png
 
 ---
 
